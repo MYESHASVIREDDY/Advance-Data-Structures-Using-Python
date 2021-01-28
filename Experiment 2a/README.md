@@ -1,7 +1,6 @@
 # EXPERIMENT 2A
-### Aim of the experiment: 
-
-
+### Aim of the experiment: To execute a program that uses functions to perform merge sort
+### produce
 
 1.Create a function merge_sort that takes a list and two variables start and end as arguments.
 2. The function merge_sort will sort the list from indexes start to end – 1 inclusive.
