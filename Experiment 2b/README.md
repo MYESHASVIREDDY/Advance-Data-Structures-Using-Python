@@ -1,6 +1,6 @@
 # EXPERIMENT 2B
 ## Aim of the experiment: To execute a program that uses functions to perform heap sort
-### PRODUCRE:
+### PROCEDURE:
 Basically, there are two phases involved in the sorting of elements using heap sort algorithm they are as follows:
 First, start with the construction of a heap by adjusting the array elements.
 Once the heap is created repeatedly eliminate the root element of the heap by shifting it to the end of the array and then store the heap structure with remaining elements.
